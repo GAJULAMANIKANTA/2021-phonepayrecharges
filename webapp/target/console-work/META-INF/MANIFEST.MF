@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Build-Java: 1.8.0_311
+Build-Label: 1.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: PC
+Build-Host: 
+Build-Maven: Maven 3.8.3
+Build-Time: 2021-11-07T12:57:36Z
+Build-OS: Windows 10
+Build-User: PC
+Created-By: Apache Maven 3.8.3
+Build-Jdk: 1.8.0_311
+

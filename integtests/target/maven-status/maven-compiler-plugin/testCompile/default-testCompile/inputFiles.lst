@@ -1,0 +1,8 @@
+D:\Maven-folderstructure\Phonepay\recharge\integtests\src\test\java\integration\tests\smoke\SimpleObjectsTest_listAll_and_create.java
+D:\Maven-folderstructure\Phonepay\recharge\integtests\src\test\java\integration\glue\BootstrappingGlue.java
+D:\Maven-folderstructure\Phonepay\recharge\integtests\src\test\java\integration\glue\CatalogOfFixturesGlue.java
+D:\Maven-folderstructure\Phonepay\recharge\integtests\src\test\java\integration\glue\simple\SimpleObjectGlue.java
+D:\Maven-folderstructure\Phonepay\recharge\integtests\src\test\java\integration\SimpleAppSystemInitializer.java
+D:\Maven-folderstructure\Phonepay\recharge\integtests\src\test\java\integration\tests\SimpleAppIntegTest.java
+D:\Maven-folderstructure\Phonepay\recharge\integtests\src\test\java\integration\glue\InMemoryDBForSimpleApp.java
+D:\Maven-folderstructure\Phonepay\recharge\integtests\src\test\java\integration\specs\simple\RunSpecs.java
